@@ -1,0 +1,1 @@
+terraform destroy -var-file skip.tfvars -auto-approve

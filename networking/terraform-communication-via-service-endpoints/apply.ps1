@@ -1,0 +1,1 @@
+terraform apply -var-file skip.tfvars -auto-approve
